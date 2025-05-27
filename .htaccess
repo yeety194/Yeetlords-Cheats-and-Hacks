@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^store$ store.html [L]
+
+# jo baiden was here
